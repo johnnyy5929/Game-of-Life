@@ -1,3 +1,3 @@
 # Welcome to school
 
-Living another day in school, deciding if you should have some fun and get in trouble or 
+Living another day in school, deciding if you should have some fun and become a troublemarker or study and stay as a good student.
