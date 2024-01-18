@@ -1,0 +1,7 @@
+# Ivy League institution
+
+Welcome, you made it so far in life, you were one out of a few people in the world to get accepted to all 8 Ivy League institution, now that you made it this far. You are thinking if you stay productive and focus on school or will go out and party. What choice will you make?
+
+[Staying persistent in school](high-paying-job.md)
+
+[Start partying habits](failure.md)
