@@ -4,5 +4,5 @@ You are wondering if you made the right choice, should we make self change or go
 
 [Rob a store](jail.md)
 
-[Make change towards yourself](rehab.md)
+[Make changes towards yourself](rehab.md)
 
