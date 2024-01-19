@@ -1,5 +1,5 @@
 # Win life
 
-Looks like you you had a greta life, you are thinking about other outcomes that could of happen.
+Congratulations! All of your plans worked! Looks like you had a successful life! You are thinking about other outcomes that could of happen.
 
-[Thinking about other outcomes](../alarm-ring.md)
+[Think about other outcomes](../alarm-ring.md)
