@@ -4,5 +4,5 @@ Seems like everything is going down hill, you are thinking of giving up and endi
 
 [Give up](death.md)
 
-[Focus back on school](win-life.md)
+[Focus back on school](high-paying-job.md)
 

@@ -4,3 +4,5 @@ You are thinking that life is going too well for you, you got everything going f
 
 
 [Start Investing](win-life.md)
+
+[Start bad habits](failure.md)
