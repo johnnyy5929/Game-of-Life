@@ -1,5 +1,5 @@
 # Death
 
-Sadly you have passed away, would you like to restart life,
+Sadly your life was cut. Maybe it was better to choose better choices in life.
 
 [Start Over](../alarm-ring.md)
