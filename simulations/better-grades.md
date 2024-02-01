@@ -5,3 +5,4 @@ Things are back on track! You recently received your report card and found that 
 [Continue to study for longer](ivy-league-institution.md)
 
 [Start relaxing](lose-everything.md)
+
