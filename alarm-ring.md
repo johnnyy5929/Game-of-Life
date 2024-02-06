@@ -9,7 +9,3 @@ Your alarm rings at 6:00 AM. What are you going to do?
 ![Hi][Alarm]
 
 [Alarm]: https://vectorportal.com/storage/alarm-clock-vector_2_12422.jpg
-
-
-
-
